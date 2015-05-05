@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<robot>
+	<property name="larm_marker_tx" value="0" />
+	<property name="larm_marker_ty" value="0" />
+	<property name="larm_marker_tz" value="0" />
+	<property name="larm_marker_rr" value="0" />
+	<property name="larm_marker_rp" value="0" />
+	<property name="larm_marker_ry" value="0" />
+	<property name="rarm_marker_tx" value="0" />
+	<property name="rarm_marker_ty" value="0" />
+	<property name="rarm_marker_tz" value="0" />
+	<property name="rarm_marker_rr" value="0" />
+	<property name="rarm_marker_rp" value="0" />
+	<property name="rarm_marker_ry" value="0" />
+	<property name="lleg_marker_tx" value="0" />
+	<property name="lleg_marker_ty" value="0" />
+	<property name="lleg_marker_tz" value="0" />
+	<property name="lleg_marker_rr" value="0" />
+	<property name="lleg_marker_rp" value="0" />
+	<property name="lleg_marker_ry" value="0" />
+	<property name="rleg_marker_tx" value="0" />
+	<property name="rleg_marker_ty" value="0" />
+	<property name="rleg_marker_tz" value="0" />
+	<property name="rleg_marker_rr" value="0" />
+	<property name="rleg_marker_rp" value="0" />
+	<property name="rleg_marker_ry" value="0" />
+</robot>

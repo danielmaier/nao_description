@@ -1,0 +1,37 @@
+<package>
+  <name>nao_description</name>
+  <version>0.2.3</version>
+  
+  <description>
+     This is a fork of the nao_description package that supports parameterized joint_offsets, camera placement, and marker locations. 
+     It is particularly useful in combination with the kinematic_calibration package at https://github.com/danielmaier/kinematic_calibration.
+     Note: This package should be merged with the current nao_description from https://github.com/ros-naoqi/nao_robot!
+
+    Description of the Nao robot model that can be used with robot_state_publisher to display the robot's state of joint angles.
+  </description>
+
+  <author>Armin Hornung</author>
+  <author>Stefan Osswald</author>
+  <author>Daniel Maier</author>
+  <maintainer email="maierd@cs.uni-freiburg.de">Daniel Maier</maintainer>
+  <license>BSD</license>
+
+  <url>http://www.ros.org/wiki/nao_description</url>
+  <url type="bugtracker">https://github.com/ros-nao/nao_robot/issues</url>
+  <url type="repository">https://github.com/ros-nao/nao_robot</url>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>message_filters</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>urdf</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>message_filters</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+
+</package>
