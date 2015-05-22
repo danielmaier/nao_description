@@ -6,7 +6,7 @@
   This is part of the Nao-Stack of University of Freiburg, available at:
   http://code.google.com/p/alufr-ros-pkg/
   
-  Authors: Armin Hornung, Stefan Osswald
+  Authors: Armin Hornung, Stefan Osswald, Stefan Wrobel, Daniel Maier
   
   Joint names and properties are according to the Nao-documentation of
   Aldebaran Robotics ("Kinematics 4.0" for Nao V4.0). 
